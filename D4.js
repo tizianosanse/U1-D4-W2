@@ -7,7 +7,7 @@ const area = function (l1, l2) {
   let tot = l1 * l2;
   return tot;
 };
-console.log(area(10, 5));
+console.log(area(10));
 /* ESERCIZIO 2
  Scrivi una funzione di nome "crazySum", che riceve due numeri interi come parametri.
  La funzione deve ritornare la somma dei due parametri, ma se il valore dei due parametri è il medesimo deve invece tornare
